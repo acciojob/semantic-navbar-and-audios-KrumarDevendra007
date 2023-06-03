@@ -7,12 +7,12 @@ div{
 	width: 50%;
 	
 }
-ul{
+.navbar{
 	display: flex;
 	justify-content: space-evenly;
 }
 
-ul li, a{
+.navbar .list, a{
 	text-decoration: none;
 	list-style: none;
 	color:#ffff00
