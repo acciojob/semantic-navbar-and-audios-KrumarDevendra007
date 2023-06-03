@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+nav{
+	background-color:#75a3a3;
+	
+	
+}
+div{
+	width: 50%
+}
+ul{
+	display: flex;
+	justify-content: space-evenly;
+}
+
+ul li, a{
+	text-decoration: none;
+	list-style: none;
+	color:#ffff00
+
+}
